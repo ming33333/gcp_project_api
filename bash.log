@@ -1,0 +1,18 @@
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=32555940559.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8085%2F&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fsqlservice.login+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&state=Otz8FZDNIV1O71wO9dpZwVNzxLEm48&access_type=offline&code_challenge=Om8H4tzRSNIISOlyoXEZtl--KisuXOa8r8vQC79Z4zo&code_challenge_method=S256
+
+
+You are now logged in as [mintharuck@gmail.com].
+Your current project is [crested-analogy-310221].  You can change this setting by running:
+  $ gcloud config set project PROJECT_ID
+INFO:Updating PROJECT setting : shaped-infusion-362518
+Updated property [core/project].
+INFO: Project shaped-infusion-362518 Removing youtube.googleapis.com API
+INFO: Project shaped-infusion-362518 Removing youtubeanalytics.googleapis.com API
+INFO: Project shaped-infusion-362518 Removing youtubereporting.googleapis.com API
+INFO:Updating PROJECT setting : crested-analogy-310221
+Updated property [core/project].
+INFO: Project crested-analogy-310221 Removing youtube.googleapis.com API
+INFO: Project crested-analogy-310221 Removing youtubeanalytics.googleapis.com API
+INFO: Project crested-analogy-310221 Removing youtubereporting.googleapis.com API
